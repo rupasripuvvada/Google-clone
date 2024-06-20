@@ -14,7 +14,7 @@ This project is a simple HTML and CSS replica of the Google homepage, designed t
 - **Body Section**: 
   - **Header**: Links to Gmail, Images, and icons for search labs, Google apps, and Google account.
   - **Main Content**: 
-    - Google logo image.
+    - Google logo.
     - Search input field with icons for search, voice search, and image search.
   - **Buttons Section**: "Google Search" and "I'm Feeling Lucky" buttons.
   - **Footer**: Navigation links for additional services and policies.
